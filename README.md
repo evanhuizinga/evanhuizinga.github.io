@@ -1,2 +1,4 @@
-# evanhuizinga.github.io
-This is the README.md for the repository!
+# Github Page Evan Huizinga
+Hello! This page is very in depth and complete.
+
+Go 49ers.
